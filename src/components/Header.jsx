@@ -6,7 +6,7 @@ function Header() {
     <header>
         <h2>
           <HighlightIcon />
-          Notes Taker
+          Noteable
         </h2>
     </header>
   );
